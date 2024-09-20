@@ -1,2 +1,2 @@
-# Projeto-inde-CSS
-Projeto de programçao-Alura
+# Projeto-Index-CSS
+Projeto de programaçao-Alura
